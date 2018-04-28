@@ -1,122 +1,141 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <debugInfo>
 <pcToLineNum>
-<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneView.mc" lineNum="9" pc="268435456" symbol="initialize"/>
-<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneView.mc" lineNum="10" pc="268435460" symbol="initialize"/>
-<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneView.mc" lineNum="14" pc="268435479" symbol="onLayout"/>
-<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneView.mc" lineNum="15" pc="268435483" symbol="onLayout"/>
-<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneView.mc" lineNum="21" pc="268435521" symbol="onShow"/>
-<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneView.mc" lineNum="25" pc="268435526" symbol="onUpdate"/>
-<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneView.mc" lineNum="27" pc="268435530" symbol="onUpdate"/>
-<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneView.mc" lineNum="28" pc="268435537" symbol="onUpdate"/>
-<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneView.mc" lineNum="29" pc="268435554" symbol="onUpdate"/>
-<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneView.mc" lineNum="30" pc="268435564" symbol="onUpdate"/>
-<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneView.mc" lineNum="31" pc="268435574" symbol="onUpdate"/>
-<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneView.mc" lineNum="34" pc="268435639" symbol="onUpdate"/>
-<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneView.mc" lineNum="35" pc="268435663" symbol="onUpdate"/>
-<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneView.mc" lineNum="36" pc="268435687" symbol="onUpdate"/>
-<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneView.mc" lineNum="37" pc="268435720" symbol="onUpdate"/>
-<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneView.mc" lineNum="38" pc="268435761" symbol="onUpdate"/>
-<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneView.mc" lineNum="40" pc="268435775" symbol="onUpdate"/>
-<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneView.mc" lineNum="43" pc="268435799" symbol="onUpdate"/>
-<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneView.mc" lineNum="49" pc="268435820" symbol="onHide"/>
-<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneView.mc" lineNum="53" pc="268435825" symbol="onExitSleep"/>
-<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneView.mc" lineNum="57" pc="268435830" symbol="onEnterSleep"/>
-<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneApp.mc" lineNum="6" pc="268435835" symbol="initialize"/>
-<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneApp.mc" lineNum="7" pc="268435839" symbol="initialize"/>
-<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneApp.mc" lineNum="11" pc="268435858" symbol="onStart"/>
-<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneApp.mc" lineNum="15" pc="268435863" symbol="onStop"/>
-<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneApp.mc" lineNum="19" pc="268435868" symbol="getInitialView"/>
-<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneApp.mc" lineNum="20" pc="268435872" symbol="getInitialView"/>
-<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneApp.mc" lineNum="24" pc="268435910" symbol="onSettingsChanged"/>
-<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneApp.mc" lineNum="25" pc="268435914" symbol="onSettingsChanged"/>
-<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneBackground.mc" lineNum="7" pc="268435931" symbol="initialize"/>
-<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneBackground.mc" lineNum="8" pc="268435935" symbol="initialize"/>
-<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneBackground.mc" lineNum="12" pc="268435956" symbol="initialize"/>
-<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneBackground.mc" lineNum="15" pc="268435977" symbol="draw"/>
-<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneBackground.mc" lineNum="17" pc="268435981" symbol="draw"/>
-<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneBackground.mc" lineNum="18" pc="268436034" symbol="draw"/>
-<entry filename="Rez" lineNum="27" pc="268436047" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="31" pc="268436059" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="32" pc="268436083" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="33" pc="268436246" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="34" pc="268436271" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="35" pc="268436323" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="36" pc="268436486" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="37" pc="268436511" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="38" pc="268436563" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="39" pc="268436609" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="40" pc="268436772" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="41" pc="268436797" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="44" pc="268436849" symbol="WatchFace"/>
+<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneView.mc" lineNum="10" pc="268435456" symbol="initialize"/>
+<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneView.mc" lineNum="11" pc="268435460" symbol="initialize"/>
+<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneView.mc" lineNum="15" pc="268435479" symbol="onLayout"/>
+<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneView.mc" lineNum="16" pc="268435483" symbol="onLayout"/>
+<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneView.mc" lineNum="22" pc="268435521" symbol="onShow"/>
+<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneView.mc" lineNum="26" pc="268435526" symbol="onUpdate"/>
+<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneView.mc" lineNum="28" pc="268435530" symbol="onUpdate"/>
+<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneView.mc" lineNum="29" pc="268435537" symbol="onUpdate"/>
+<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneView.mc" lineNum="30" pc="268435554" symbol="onUpdate"/>
+<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneView.mc" lineNum="31" pc="268435564" symbol="onUpdate"/>
+<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneView.mc" lineNum="32" pc="268435588" symbol="onUpdate"/>
+<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneView.mc" lineNum="33" pc="268435653" symbol="onUpdate"/>
+<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneView.mc" lineNum="35" pc="268435692" symbol="onUpdate"/>
+<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneView.mc" lineNum="36" pc="268435716" symbol="onUpdate"/>
+<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneView.mc" lineNum="37" pc="268435740" symbol="onUpdate"/>
+<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneView.mc" lineNum="38" pc="268435793" symbol="onUpdate"/>
+<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneView.mc" lineNum="39" pc="268435834" symbol="onUpdate"/>
+<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneView.mc" lineNum="40" pc="268435848" symbol="onUpdate"/>
+<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneView.mc" lineNum="42" pc="268435873" symbol="onUpdate"/>
+<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneView.mc" lineNum="45" pc="268435897" symbol="onUpdate"/>
+<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneView.mc" lineNum="51" pc="268435918" symbol="onHide"/>
+<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneView.mc" lineNum="55" pc="268435923" symbol="onExitSleep"/>
+<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneView.mc" lineNum="59" pc="268435928" symbol="onEnterSleep"/>
+<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneApp.mc" lineNum="6" pc="268435933" symbol="initialize"/>
+<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneApp.mc" lineNum="7" pc="268435937" symbol="initialize"/>
+<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneApp.mc" lineNum="11" pc="268435956" symbol="onStart"/>
+<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneApp.mc" lineNum="15" pc="268435961" symbol="onStop"/>
+<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneApp.mc" lineNum="19" pc="268435966" symbol="getInitialView"/>
+<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneApp.mc" lineNum="20" pc="268435970" symbol="getInitialView"/>
+<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneApp.mc" lineNum="24" pc="268436008" symbol="onSettingsChanged"/>
+<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneApp.mc" lineNum="25" pc="268436012" symbol="onSettingsChanged"/>
+<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneBackground.mc" lineNum="7" pc="268436029" symbol="initialize"/>
+<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneBackground.mc" lineNum="8" pc="268436033" symbol="initialize"/>
+<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneBackground.mc" lineNum="12" pc="268436054" symbol="initialize"/>
+<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneBackground.mc" lineNum="15" pc="268436075" symbol="draw"/>
+<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneBackground.mc" lineNum="17" pc="268436079" symbol="draw"/>
+<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/WatchFacerOneBackground.mc" lineNum="18" pc="268436132" symbol="draw"/>
+<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/Time.mc" lineNum="8" pc="268436145" symbol="drawTime"/>
+<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/Time.mc" lineNum="10" pc="268436157" symbol="drawTime"/>
+<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/Time.mc" lineNum="11" pc="268436174" symbol="drawTime"/>
+<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/Time.mc" lineNum="12" pc="268436184" symbol="drawTime"/>
+<entry filename="/Users/eivind/Projects/eclipseworkspace/WatchFacerOne/./source/Time.mc" lineNum="13" pc="268436208" symbol="drawTime"/>
+<entry filename="Rez" lineNum="27" pc="268436233" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="31" pc="268436245" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="32" pc="268436269" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="33" pc="268436432" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="34" pc="268436457" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="35" pc="268436509" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="36" pc="268436672" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="37" pc="268436697" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="38" pc="268436749" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="39" pc="268436795" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="40" pc="268436958" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="41" pc="268436983" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="44" pc="268437035" symbol="WatchFace"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="8389124" method="true" symbol="onUpdate"/>
 <entry id="8389349" symbol="justification"/>
-<entry field="true" id="15" symbol="ColorBlue"/>
+<entry field="true" id="16" symbol="ColorBlue"/>
 <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388645" module="true" symbol="Time"/>
 <entry id="8388770" module="true" object="true" symbol="Strings"/>
-<entry field="true" id="22" symbol="ColorWhite"/>
+<entry field="true" id="26" symbol="textHeight"/>
+<entry field="true" id="23" symbol="ColorWhite"/>
 <entry id="8389280" method="true" symbol="getInitialView"/>
 <entry id="8389068" method="true" symbol="draw"/>
 <entry id="8389377" method="true" symbol="onExitSleep"/>
 <entry id="8388640" module="true" symbol="Lang"/>
-<entry field="true" id="21" symbol="ColorBlack"/>
+<entry field="true" id="22" symbol="ColorBlack"/>
 <entry id="8388769" module="true" object="true" symbol="Rez"/>
 <entry id="8389123" method="true" symbol="onShow"/>
-<entry field="true" id="16" symbol="ColorRed"/>
-<entry field="true" id="17" symbol="ForegroundColorTitle"/>
+<entry field="true" id="17" symbol="ColorRed"/>
+<entry field="true" id="18" symbol="ForegroundColorTitle"/>
 <entry id="8388702" method="true" symbol="initialize"/>
-<entry field="true" id="23" symbol="AppName"/>
+<entry field="true" id="24" symbol="AppName"/>
 <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+<entry field="true" id="25" symbol="textWidth"/>
 <entry id="8390146" module="true" object="true" symbol="Background"/>
-<entry id="9" object="true" symbol="WatchFacerOneView"/>
-<entry field="true" id="13" symbol="LauncherIcon"/>
+<entry id="10" object="true" symbol="WatchFacerOneView"/>
+<entry field="true" id="14" symbol="LauncherIcon"/>
+<entry id="27" method="true" symbol="drawTime"/>
 <entry id="8389683" method="true" symbol="onSettingsChanged"/>
 <entry id="8389281" method="true" symbol="onStop"/>
 <entry field="true" id="8389065" symbol="locY"/>
 <entry field="true" id="8389064" symbol="locX"/>
 <entry id="8388771" module="true" object="true" symbol="Drawables"/>
 <entry id="8389122" method="true" symbol="onLayout"/>
-<entry field="true" id="19" symbol="ColorDarkGray"/>
+<entry field="true" id="20" symbol="ColorDarkGray"/>
 <entry id="8389279" method="true" symbol="onStart"/>
 <entry id="8389376" method="true" symbol="onEnterSleep"/>
 <entry id="8389348" symbol="font"/>
-<entry field="true" id="14" symbol="ColorLightGray"/>
+<entry field="true" id="15" symbol="ColorLightGray"/>
 <entry id="8389347" symbol="color"/>
-<entry field="true" id="18" symbol="BackgroundColorTitle"/>
-<entry id="12" module="true" symbol="Layouts"/>
+<entry field="true" id="19" symbol="BackgroundColorTitle"/>
+<entry id="13" module="true" symbol="Layouts"/>
 <entry id="8389125" method="true" symbol="onHide"/>
-<entry field="true" id="20" symbol="MilitaryFormatTitle"/>
-<entry id="10" object="true" symbol="WatchFacerOneApp"/>
+<entry field="true" id="21" symbol="MilitaryFormatTitle"/>
+<entry id="11" object="true" symbol="WatchFacerOneApp"/>
 <entry id="8390088" module="true" object="true" symbol="JsonData"/>
 <entry field="true" id="8389063" symbol="identifier"/>
-<entry id="11" module="true" symbol="Menus"/>
+<entry id="12" module="true" symbol="Menus"/>
 <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="8388633" module="true" symbol="ActivityMonitor"/>
 </symbolTable>
 <localVars>
 <entry endPc="268435521" name="dc" stackId="1" startPc="268435479"/>
-<entry endPc="268435819" name="view" stackId="7" startPc="268435530"/>
-<entry endPc="268435819" name="hours" stackId="4" startPc="268435530"/>
-<entry endPc="268435819" name="batteryView" stackId="8" startPc="268435530"/>
-<entry endPc="268435819" name="stepsView" stackId="9" startPc="268435530"/>
-<entry endPc="268435819" name="timeString" stackId="6" startPc="268435530"/>
-<entry endPc="268435819" name="clockTime" stackId="3" startPc="268435530"/>
-<entry endPc="268435819" name="seconds" stackId="5" startPc="268435530"/>
-<entry endPc="268435819" name="timeFormat" stackId="2" startPc="268435530"/>
-<entry endPc="268435820" name="dc" stackId="1" startPc="268435526"/>
-<entry endPc="268435863" name="state" stackId="1" startPc="268435858"/>
-<entry endPc="268435868" name="state" stackId="1" startPc="268435863"/>
-<entry endPc="268435976" name="dictionary" stackId="1" startPc="268435935"/>
-<entry endPc="268436047" name="dc" stackId="1" startPc="268435977"/>
-<entry endPc="268436896" name="rez_cmp_local_bitmap_TimeLabel" stackId="5" startPc="268436059"/>
-<entry endPc="268436896" name="rez_cmp_local_custom_drawable_P9OLGH3UFLRWRPK2P250" stackId="2" startPc="268436059"/>
-<entry endPc="268436896" name="rez_cmp_local_bitmap_TimeLabel_fontHeight" stackId="6" startPc="268436059"/>
-<entry endPc="268436896" name="rez_cmp_local_bitmap_BatteryLbl_fontHeight" stackId="4" startPc="268436059"/>
-<entry endPc="268436896" name="rez_cmp_local_bitmap_StepsLbl_fontHeight" stackId="8" startPc="268436059"/>
-<entry endPc="268436896" name="rez_cmp_local_bitmap_StepsLbl" stackId="7" startPc="268436059"/>
-<entry endPc="268436896" name="rez_cmp_local_bitmap_BatteryLbl" stackId="3" startPc="268436059"/>
-<entry endPc="268436897" name="dc" stackId="1" startPc="268436047"/>
+<entry endPc="268435917" name="view" stackId="7" startPc="268435530"/>
+<entry endPc="268435917" name="hours" stackId="4" startPc="268435530"/>
+<entry endPc="268435917" name="batteryView" stackId="8" startPc="268435530"/>
+<entry endPc="268435917" name="stepsView" stackId="9" startPc="268435530"/>
+<entry endPc="268435917" name="timeString" stackId="6" startPc="268435530"/>
+<entry endPc="268435917" name="clockTime" stackId="3" startPc="268435530"/>
+<entry endPc="268435917" name="seconds" stackId="5" startPc="268435530"/>
+<entry endPc="268435917" name="timeFormat" stackId="2" startPc="268435530"/>
+<entry endPc="268435918" name="dc" stackId="1" startPc="268435526"/>
+<entry endPc="268435961" name="state" stackId="1" startPc="268435956"/>
+<entry endPc="268435966" name="state" stackId="1" startPc="268435961"/>
+<entry endPc="268436074" name="dictionary" stackId="1" startPc="268436033"/>
+<entry endPc="268436145" name="dc" stackId="1" startPc="268436075"/>
+<entry endPc="268436232" name="hours" stackId="5" startPc="268436157"/>
+<entry endPc="268436232" name="minutes" stackId="6" startPc="268436157"/>
+<entry endPc="268436232" name="time" stackId="4" startPc="268436157"/>
+<entry endPc="268436232" name="seconds" stackId="7" startPc="268436157"/>
+<entry endPc="268436233" name="cx" stackId="2" startPc="268436145"/>
+<entry endPc="268436233" name="dc" stackId="1" startPc="268436145"/>
+<entry endPc="268436233" name="cy" stackId="3" startPc="268436145"/>
+<entry endPc="268437082" name="rez_cmp_local_bitmap_TimeLabel" stackId="5" startPc="268436245"/>
+<entry endPc="268437082" name="rez_cmp_local_bitmap_TimeLabel_fontHeight" stackId="6" startPc="268436245"/>
+<entry endPc="268437082" name="rez_cmp_local_bitmap_BatteryLbl_fontHeight" stackId="4" startPc="268436245"/>
+<entry endPc="268437082" name="rez_cmp_local_bitmap_StepsLbl_fontHeight" stackId="8" startPc="268436245"/>
+<entry endPc="268437082" name="rez_cmp_local_bitmap_StepsLbl" stackId="7" startPc="268436245"/>
+<entry endPc="268437082" name="rez_cmp_local_bitmap_BatteryLbl" stackId="3" startPc="268436245"/>
+<entry endPc="268437082" name="rez_cmp_local_custom_drawable_FH2HZX1EE58QR1K3GT79" stackId="2" startPc="268436245"/>
+<entry endPc="268437083" name="dc" stackId="1" startPc="268436233"/>
 </localVars>
 <annotations/>
 <functions>
@@ -167,22 +186,29 @@
 <param id="dc"/>
 <documentation/>
 </functionEntry>
+<functionEntry accessMode="public" name="drawTime" parent="Time">
+<param id="dc"/>
+<param id="cx"/>
+<param id="cy"/>
+<documentation/>
+</functionEntry>
 <functionEntry accessMode="public" name="WatchFace" parent="Layouts">
 <param id="dc"/>
 <documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
 </functionEntry>
 </functions>
 <dataEntryOffsetMappings>
-<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
-<dataEntry offset="182" parentId="globals" symbolId="Background" type="class"/>
-<dataEntry offset="237" parentId="globals" symbolId="WatchFacerOneApp" type="class"/>
-<dataEntry offset="316" parentId="globals" symbolId="Rez" type="module"/>
-<dataEntry offset="395" parentId="Rez" symbolId="Drawables" type="module"/>
-<dataEntry offset="434" parentId="Rez" symbolId="Menus" type="module"/>
-<dataEntry offset="465" parentId="Rez" symbolId="Fonts" type="module"/>
-<dataEntry offset="496" parentId="Rez" symbolId="JsonData" type="module"/>
-<dataEntry offset="527" parentId="Rez" symbolId="Layouts" type="module"/>
-<dataEntry offset="566" parentId="Rez" symbolId="Strings" type="module"/>
-<dataEntry offset="677" parentId="globals" symbolId="WatchFacerOneView" type="class"/>
+<dataEntry offset="95" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="206" parentId="globals" symbolId="Background" type="class"/>
+<dataEntry offset="261" parentId="globals" symbolId="WatchFacerOneApp" type="class"/>
+<dataEntry offset="340" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="419" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="458" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="489" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="520" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="551" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="590" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="701" parentId="globals" symbolId="Time" type="module"/>
+<dataEntry offset="756" parentId="globals" symbolId="WatchFacerOneView" type="class"/>
 </dataEntryOffsetMappings>
 </debugInfo>

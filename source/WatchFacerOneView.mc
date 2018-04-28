@@ -3,6 +3,7 @@ using Toybox.Graphics as Gfx;
 using Toybox.System as Sys;
 using Toybox.Lang as Lang;
 using Toybox.Application as App;
+using Toybox.ActivityMonitor;
 
 class WatchFacerOneView extends Ui.WatchFace {
 
@@ -27,15 +28,16 @@ class WatchFacerOneView extends Ui.WatchFace {
         var timeFormat = "$1$:$2$";
         var clockTime = Sys.getClockTime();
         var hours = clockTime.hour;
-        var seconds = clockTime.sec;
+        var seconds = clockTime.sec.format("%02d");
         var timeString = Lang.format(timeFormat, [hours, clockTime.min.format("%02d")]);
-//		System.println(seconds);
+		System.println(ActivityMonitor.getInfo().steps);
         // Update the view
         var view = View.findDrawableById("TimeLabel");
         var batteryView = View.findDrawableById("BatteryLbl");
-        batteryView.setText(Sys.getSystemStats().battery);
+        batteryView.setText(Sys.getSystemStats().battery.format("%02d") + "%");
         view.setColor(App.getApp().getProperty("ForegroundColor"));
         view.setText(timeString);
+        Sys.ActivityMonitor.Info.steps;
         //view.setSize(20,20);
 		var stepsView = View.findDrawableById("StepsLbl");
 		//stepsView.setText(seconds);
